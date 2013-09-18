@@ -9,6 +9,9 @@ Pour l'instant, les données suivantes sont utilisées:
  * résultats des élections municipales pour les communes de plus de 3500 habs [source](http://www.data.gouv.fr/DataSet/572150?xtmc=élection%20municipale&xtcr=4)
  * activité des députés [source](http://www.nosdeputes.fr/synthese)
 
+
+Le notebook est disponible [ici](http://nbviewer.ipython.org/urls/raw.github.com/fmassot/reserve_parlementaire/master/notebooks/reserve-analysis.ipynb)
+
 Usage
 =====
 
